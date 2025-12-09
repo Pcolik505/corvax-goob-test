@@ -23,9 +23,9 @@
   - type: StationEvent
     earliestStart: 15
     reoccurrenceDelay: 45
-    weight: 3
+    weight: 3 # Goobstation - 7.5 -> 4 # CorvaxGoob Changes: 4 > 3
     maxOccurrences: 1 # CorvaxGoob Changes: abductors spawn balance
-    minimumPlayers: 25 # CorvaxGoob Changes: 10 > 25
+    minimumPlayers: 25 
     duration: null # Goobstation - chud
     chaos:
       Hostile: 75
@@ -126,7 +126,7 @@
   - type: StationEvent
     earliestStart: 15
     reoccurrenceDelay: 45
-    weight: 3.5 # CorvaxGoob Changes: 4 > 3.5
+    weight: 3.5 # Goobstation - 7.5 -> 4 # CorvaxGoob Changes: 4 > 3.5
     maxOccurrences: 1 # CorvaxGoob Changes: abductors spawn balance
     minimumPlayers: 35 # CorvaxGoob Changes: 20 > 35
     duration: null # Goobstation - chud
