@@ -19,6 +19,9 @@
       shader: unshaded
       visible: false
       map: ["enum.ToggleableVisuals.Layer"]
+  - type: Tag # CorvaxGoob
+    tags: # CorvaxGoob
+    - MineralScanner # CorvaxGoob
   - type: ItemToggleActiveSound
     activeSound:
       path: /Audio/Ambience/Objects/light_hum.ogg
