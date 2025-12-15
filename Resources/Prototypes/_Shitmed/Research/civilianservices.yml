@@ -175,7 +175,7 @@
   recipeUnlocks:
   - ClothingHandsGlovesSurgical
   - AutodocUpgradeKitBluespace # Goobstation
-  - OmnimedTool # CorvaxGoobChanges: AdvancedTreatment > HighEndSurgery
+  - OmnimedTool # Shitmed # CorvaxGoobChanges: AdvancedTreatment > HighEndSurgery
   technologyPrerequisites:
   - AdvancedCybernetics
   position: -2,9
