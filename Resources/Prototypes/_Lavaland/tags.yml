@@ -58,3 +58,9 @@
 
 - type: Tag
   id: MarkerBeacon
+
+- type: Tag
+  id: LavalandJaunter # CorvaxGoob
+
+- type: Tag
+  id: MineralScanner # CorvaxGoob

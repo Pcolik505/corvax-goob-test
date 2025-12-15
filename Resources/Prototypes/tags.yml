@@ -816,6 +816,9 @@
 
 - type: Tag
   id: Flashlight
+  
+- type: Tag
+  id: FlashlightSeclite
 
 - type: Tag
   id: Flesh
@@ -1185,6 +1188,9 @@
   id: Mineshaft
 
 - type: Tag
+  id: MiningDrill # CorvaxGoob
+
+- type: Tag
   id: ModularReceiver
 
 - type: Tag
@@ -1477,6 +1483,9 @@
   id: SecwayKeys
 
 - type: Tag
+  id: SeismicCharge # CorvaxGoob
+
+- type: Tag
   id: Sheet
 
 - type: Tag
@@ -1620,6 +1629,12 @@
 - type: Tag
   id: Taser
 
+- type: Tag
+  id: TelescopicBaton # CorvaxGoob
+
+- type: Tag
+  id: TelescopicShield # CorvaxGoob
+  
 - type: Tag
   id: TimerBrigElectronics
 
