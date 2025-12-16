@@ -20,8 +20,8 @@
       visible: false
       map: ["enum.ToggleableVisuals.Layer"]
   - type: Tag # CorvaxGoob
-    tags: # CorvaxGoob
-    - MineralScanner # CorvaxGoob
+    tags:
+    - MineralScanner
   - type: ItemToggleActiveSound
     activeSound:
       path: /Audio/Ambience/Objects/light_hum.ogg

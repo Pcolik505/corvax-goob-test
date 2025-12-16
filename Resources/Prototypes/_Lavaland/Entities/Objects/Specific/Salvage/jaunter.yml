@@ -30,8 +30,8 @@
     sprite: _Lavaland/Objects/Specific/Salvage/jaunter.rsi
     state: icon
   - type: Tag # CorvaxGoob
-    tags: # CorvaxGoob
-    - LavalandJaunter # CorvaxGoob
+    tags:
+    - LavalandJaunter
   - type: Item
     size: Small
   - type: PreventChasmFalling
