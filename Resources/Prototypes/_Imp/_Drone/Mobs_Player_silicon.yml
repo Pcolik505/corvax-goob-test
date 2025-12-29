@@ -289,6 +289,3 @@
     - Maintenance
     - Atmospherics # Goobstation
   - type: ContributorName # Goobstation - Maint drones get up to date contributor names
-  - type: NpcFactionMember # CorvaxGoob
-    factions:
-      - NanoTrasen
