@@ -1,16 +1,16 @@
 meta:
   format: 7
-  category: Grid
+  category: Map
   engineVersion: 264.0.0
   forkId: ""
   forkVersion: ""
-  time: 12/29/2025 22:10:23
-  entityCount: 272
-maps: []
+  time: 12/31/2025 10:32:23
+  entityCount: 273
+maps:
+- 273
 grids:
 - 1
-orphans:
-- 1
+orphans: []
 nullspace: []
 tilemap:
   0: Space
@@ -29,7 +29,7 @@ entities:
       name: Unidentified Flying Object
     - type: Transform
       pos: -0.5520833,-0.5416667
-      parent: invalid
+      parent: 273
     - type: MapGrid
       chunks:
         0,0:
@@ -133,6 +133,16 @@ entities:
     - type: RadiationGridResistance
     - type: ImplicitRoof
     - type: FTLDrive
+  - uid: 273
+    components:
+    - type: MetaData
+      name: Map Entity
+    - type: Transform
+    - type: Map
+      mapPaused: True
+    - type: GridTree
+    - type: Broadphase
+    - type: OccluderTree
 - proto: AbductorAlienPad
   entities:
   - uid: 181
